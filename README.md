@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aakashawase
+- 👀 I’m interested in Python and Automation 
+- 🌱 I’m currently learning Go and Kubernetes
+- 💞️ I’m looking to collaborate on Python automation and 
+- 📫 How to reach me - aakashawase@gmail.com
