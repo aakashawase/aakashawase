@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about Cloud Automation and DevOps, and I'm constantly exploring ways to improve software development processes through automation and orchestration. I believe in leveraging the power of the cloud to create scalable and efficient solutions.
 
 ### 🌱 Currently Learning
-I'm currently focused on expanding my knowledge in Terraform and Kubernetes. These tools play a crucial role in building and managing infrastructure and containerized applications in a cloud-native environment. I'm excited about the possibilities they offer and how they can streamline deployment and scalability.
+I'm currently focused on expanding my knowledge in Kubernetes and GitOps. These tools play a crucial role in building and managing infrastructure and containerized applications in a cloud-native environment. I'm excited about the possibilities they offer and how they can streamline deployment and scalability.
 
 ### 👀 Interests
 My main areas of interest lie in Cloud Automation, DevOps, and Infrastructure as Code (IaC). I enjoy working with various cloud providers, such as AWS, to design and implement scalable architectures. I also have a keen interest in Python programming and leveraging its capabilities to automate tasks and develop robust solutions.
@@ -17,6 +17,7 @@ I'm proud to have achieved the following certifications:
 - [AWS Certified Solution Architect - Associate](https://www.credly.com/badges/cb4acc13-fd93-490a-807d-555a0bee6075/public_url)
 - [Python Certification - HackerRank](https://www.hackerrank.com/certificates/2d7f9359b4be)
 - [Linux Certification - Udemy](https://udemy-certificate.s3.amazonaws.com/pdf/UC-e8592c28-f207-4274-ad3d-318ff8ae260e.pdf)
+- [Kubernetes_administrator_(CKA) - Edureka](https://www.edureka.co/certificates/mycertificate/665eebe81a6f270e5c17eaa23066ccce)
 
 These certifications reflect my dedication to continuous learning and my commitment to staying up-to-date with the latest technologies.
 
